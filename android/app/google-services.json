@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "796386037655",
+    "project_id": "login-f8f38",
+    "storage_bucket": "login-f8f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796386037655:android:80a6944d6fb46aa8dbfed2",
+        "android_client_info": {
+          "package_name": "com.example.fierbase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796386037655-1p5u3jak6jucp57pepe1jq2d0qbr42te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcukT5eARGz0oJfhEeulbYksZIeIUiF4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796386037655-1p5u3jak6jucp57pepe1jq2d0qbr42te.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "796386037655-3j5e8jm12ditno1cr5nspmk96cnb1d0r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gmailauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
